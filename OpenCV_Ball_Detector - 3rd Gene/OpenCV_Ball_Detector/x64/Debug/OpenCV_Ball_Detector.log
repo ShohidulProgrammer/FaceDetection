@@ -1,0 +1,24 @@
+﻿  MainForm.cpp
+c:\users\jackyle\desktop\opencv_ball_detector - 3ndgene -\opencv_ball_detector\MainForm.h(32): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\jackyle\desktop\opencv_ball_detector - 3ndgene -\opencv_ball_detector\MainForm.h(414): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\jackyle\desktop\opencv_ball_detector - 3ndgene -\opencv_ball_detector\MainForm.h(423): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\jackyle\desktop\opencv_ball_detector - 3ndgene -\opencv_ball_detector\MainForm.h(424): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+MainForm.cpp(6): warning C4551: function call missing argument list
+MainForm.cpp(7): warning C4551: function call missing argument list
+c:\opencv3\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  jackylib.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  OpenCV_Ball_Detector.vcxproj -> C:\Users\JackyLe\Desktop\OpenCV_Ball_Detector - 3ndGene -\x64\Debug\OpenCV_Ball_Detector.exe
+  OpenCV_Ball_Detector.vcxproj -> C:\Users\JackyLe\Desktop\OpenCV_Ball_Detector - 3ndGene -\x64\Debug\OpenCV_Ball_Detector.pdb (Partial PDB)

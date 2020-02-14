@@ -1,0 +1,33 @@
+﻿  MainForm.cpp
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(258): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(261): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(401): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(461): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(470): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(498): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(482): warning C4101: 'myradius': unreferenced local variable
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(483): warning C4101: 'dis': unreferenced local variable
+c:\users\letrantr\onedrive\documents\wok\opencv\handgesture\handgesture\MainForm.h(567): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+MainForm.cpp(5): warning C4551: function call missing argument list
+MainForm.cpp(6): warning C4551: function call missing argument list
+c:\opencv3\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\fast_math.hpp(204): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\fast_math.hpp(205): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  jackylib.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  handGesture.vcxproj -> C:\Users\letrantr\OneDrive\Documents\Wok\OpenCV\handGesture\x64\Debug\handGesture.exe
+  handGesture.vcxproj -> C:\Users\letrantr\OneDrive\Documents\Wok\OpenCV\handGesture\x64\Debug\handGesture.pdb (Partial PDB)

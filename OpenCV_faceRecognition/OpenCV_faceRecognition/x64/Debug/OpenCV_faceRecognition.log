@@ -1,0 +1,30 @@
+﻿  MainForm.cpp
+c:\users\letrantr\documents\visual studio 2015\projects\opencv_facerecognition\opencv_facerecognition\MainForm.h(145): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\documents\visual studio 2015\projects\opencv_facerecognition\opencv_facerecognition\MainForm.h(146): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\documents\visual studio 2015\projects\opencv_facerecognition\opencv_facerecognition\MainForm.h(154): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\documents\visual studio 2015\projects\opencv_facerecognition\opencv_facerecognition\MainForm.h(163): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\documents\visual studio 2015\projects\opencv_facerecognition\opencv_facerecognition\MainForm.h(172): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\letrantr\documents\visual studio 2015\projects\opencv_facerecognition\opencv_facerecognition\MainForm.h(180): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+MainForm.cpp(7): warning C4551: function call missing argument list
+MainForm.cpp(8): warning C4551: function call missing argument list
+c:\opencv3\build\include\opencv2\core\cvstd.hpp(599): warning C4793: 'cv::String::String': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(392): warning C4793: 'cv::Mat::Mat': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(681): warning C4793: 'cv::Mat::release': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(1872): warning C4793: 'cv::SparseMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\mat.inl.hpp(3473): warning C4793: 'cv::UMat::addref': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\ptr.inl.hpp(67): warning C4793: 'cv::detail::PtrOwner::incRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\ptr.inl.hpp(72): warning C4793: 'cv::detail::PtrOwner::decRef': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\fast_math.hpp(96): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+c:\opencv3\build\include\opencv2\core\fast_math.hpp(97): warning C4793: '`anonymous namespace'::cvRound': function compiled as native:
+  	Found an intrinsic not supported in managed code
+  jackylib.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  OpenCV_faceRecognition.vcxproj -> C:\Users\letrantr\Documents\Visual Studio 2015\Projects\OpenCV_faceRecognition\x64\Debug\OpenCV_faceRecognition.exe
+  OpenCV_faceRecognition.vcxproj -> C:\Users\letrantr\Documents\Visual Studio 2015\Projects\OpenCV_faceRecognition\x64\Debug\OpenCV_faceRecognition.pdb (Partial PDB)

@@ -1,0 +1,11 @@
+in opencv3.0, there is no highgui module in java.
+To migrating from OpenCV 2.x to 3.0.0 (Java)
+
+Highgui.imread(fileName, Highgui.CV_LOAD_IMAGE_GRAYSCALE)becomes Imgcodecs.imread(fileName, Imgcodecs.CV_LOAD_IMAGE_GRAYSCALE)
+
+And Highgui.imread(fileName) becomes Imgcodecs.imread(fileName)
+
+also , drawing functions such as:
+
+Core.circle(..), Core.line(..) become Imgproc.circle(..), Imgproc.line(..)
+Core.rectangle(frame, new Point(rect.x, rect.y), new Point(rect.x + rect.width, rect.y + rect.height)becomes Imgproc.rectangle(frame, new Point(rect.x, rect.y), new Point(rect.x + rect.width, rect.y + rect.height);
